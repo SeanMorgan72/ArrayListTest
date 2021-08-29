@@ -1,0 +1,13 @@
+/Users/seanmorgan/repos/ArrayAndListQuiz/ArrayTest/bin/Debug/netcoreapp3.1/ArrayTest.deps.json
+/Users/seanmorgan/repos/ArrayAndListQuiz/ArrayTest/bin/Debug/netcoreapp3.1/ArrayTest.runtimeconfig.json
+/Users/seanmorgan/repos/ArrayAndListQuiz/ArrayTest/bin/Debug/netcoreapp3.1/ArrayTest.runtimeconfig.dev.json
+/Users/seanmorgan/repos/ArrayAndListQuiz/ArrayTest/bin/Debug/netcoreapp3.1/ArrayTest.dll
+/Users/seanmorgan/repos/ArrayAndListQuiz/ArrayTest/bin/Debug/netcoreapp3.1/ArrayTest.pdb
+/Users/seanmorgan/repos/ArrayAndListQuiz/ArrayTest/obj/Debug/netcoreapp3.1/ArrayTest.csproj.AssemblyReference.cache
+/Users/seanmorgan/repos/ArrayAndListQuiz/ArrayTest/obj/Debug/netcoreapp3.1/ArrayTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seanmorgan/repos/ArrayAndListQuiz/ArrayTest/obj/Debug/netcoreapp3.1/ArrayTest.AssemblyInfoInputs.cache
+/Users/seanmorgan/repos/ArrayAndListQuiz/ArrayTest/obj/Debug/netcoreapp3.1/ArrayTest.AssemblyInfo.cs
+/Users/seanmorgan/repos/ArrayAndListQuiz/ArrayTest/obj/Debug/netcoreapp3.1/ArrayTest.csproj.CoreCompileInputs.cache
+/Users/seanmorgan/repos/ArrayAndListQuiz/ArrayTest/obj/Debug/netcoreapp3.1/ArrayTest.dll
+/Users/seanmorgan/repos/ArrayAndListQuiz/ArrayTest/obj/Debug/netcoreapp3.1/ArrayTest.pdb
+/Users/seanmorgan/repos/ArrayAndListQuiz/ArrayTest/obj/Debug/netcoreapp3.1/ArrayTest.genruntimeconfig.cache
